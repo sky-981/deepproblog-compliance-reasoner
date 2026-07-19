@@ -1,0 +1,2 @@
+packaging==26.2
+problog==2.2.10
